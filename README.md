@@ -20,3 +20,5 @@ UFO sighting data is quite substantial in size; however, I will focus only on Ca
 Null Hypothesis (H₀): Weather conditions have no significant effect on the frequency of UFO sightings.
 Alternative Hypothesis (H₁): UFO sightings occur more frequently under specific weather conditions than would be expected by chance.
 
+## Additional
+I also want to explore the potential influence of the movie industry on UFO sightings—or vice versa. If my initial findings are inconclusive, I plan to incorporate the impact of the film industry into my analysis to gain a broader perspective.
