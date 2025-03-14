@@ -7,6 +7,7 @@ I've always been skeptical about extraterrestrial life. Therefore, I want to ana
 I will collect ufo sightings data from kaggle and weather data from local weather forum.
 * Weather Data : https://www.wunderground.com/history/daily/us/va/arlington/KDCA/date/2011-3-14
 * UFO Sightings Data : https://www.kaggle.com/datasets/NUFORC/ufo-sightings
+  
 UFO sighting data is quite substantial in size; however, I will focus only on California, USA, to reduce the dataset. This will allow me to work with a smaller, more manageable dataset, making the analysis more efficient.
 
 ## Tools and Technologies
