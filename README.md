@@ -9,6 +9,7 @@ I will collect ufo sightings data from kaggle and weather data from local weathe
 * UFO Sightings Data : https://www.kaggle.com/datasets/NUFORC/ufo-sightings 
 * Drug Consumption: https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm#print  (year 2005)
 * Alcohol Consumption: https://www.niaaa.nih.gov/sites/default/files/surveillance-report121.pdf (year 2013)
+* USA population in 2013: https://www.factmonster.com/us/fifty-states/state-population-rank-2013
   
 UFO sighting data is quite substantial in size; however, I will focus only on USA to reduce the dataset. This will allow me to work with a smaller, more manageable dataset, making the analysis more efficient.
 
