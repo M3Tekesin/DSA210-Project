@@ -7,7 +7,6 @@ I've always been skeptical about extraterrestrial life. Therefore, I want to ana
 I will collect ufo sightings data from kaggle and weather data from local weather forum.
 * Weather Data : https://www.wunderground.com/history/daily/us/va/arlington/KDCA/date/2011-3-14
 * UFO Sightings Data : https://www.kaggle.com/datasets/NUFORC/ufo-sightings 
-* Drug Consumption: https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm#print  (year 2005)
 * Alcohol Consumption: https://www.niaaa.nih.gov/sites/default/files/surveillance-report121.pdf (year 2013)
 * USA population in 2013: https://www.factmonster.com/us/fifty-states/state-population-rank-2013
   
@@ -26,9 +25,7 @@ UFO sighting data is quite substantial in size; however, I will focus only on US
 2. UFO Sightings-Alcohol Consumption
 * Null Hypothesis (H₀): There is no relationship between alcohol consumption per capita and the number of UFO sightings per state.
 * Alternative Hypothesis (H₁): There is a relationship between alcohol consumption per capita and the number of UFO sightings per state.
-3. UFO Sightings-Drug Overdose
-* Null Hypothesis (H₀): Overdose deaths and UFO sightings are independent.
-* Alternative Hypothesis (H₁): Overdose deaths and UFO sightings are associated.
+
 
 
 ## PS
